@@ -1,6 +1,7 @@
 ---
 title: How to prefill a Google Form from a spreadsheet (a link for every row, free)
 description: Generate a pre-filled Google Form link for each row of a Google Sheet, matched by question title, and email each person their own link. Free Apps Script, no add-on.
+image: https://decodedxr.github.io/form-prefill-links/assets/cover.png
 ---
 {% raw %}
 

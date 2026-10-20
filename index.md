@@ -1,6 +1,7 @@
 ---
 title: Free Form Prefill Links
 description: A pre-filled Google Form link for every row of a Google Sheet, matched by question title. One free Apps Script file, no add-on.
+image: https://decodedxr.github.io/form-prefill-links/assets/cover.png
 ---
 
 # Free Form Prefill Links
