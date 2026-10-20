@@ -1,0 +1,4 @@
+title: Free Form Prefill Links
+description: A pre-filled Google Form link for every row of a Google Sheet. Free Apps Script, no add-on.
+plugins:
+  - jekyll-sitemap
