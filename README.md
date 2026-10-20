@@ -31,6 +31,7 @@ A **Prefilled Link** column fills with one link per row.
 
 ## More free Google tools
 
+- [Gmail CSV to Sheets](https://github.com/DecodedXR/gmail-csv-to-sheets): import emailed CSV reports into a sheet every hour.
 - [Form Auto-Reply](https://github.com/DecodedXR/form-auto-reply): your own email to every Google Form respondent.
 - [Sheets Mail Merge](https://github.com/DecodedXR/sheets-mail-merge): a personalized email to every row.
 - [Sheets Doc Merge](https://github.com/DecodedXR/sheets-doc-merge): one PDF per row from a Google Docs template.
